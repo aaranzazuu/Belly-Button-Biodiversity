@@ -14,7 +14,7 @@ The purpose of this project was to create an interactive dashboard to explore th
 <li>D3</li>
 </ul>
 
-<b>Project Description -<b><p>
+<b>Project Description -</b><p>
 
 The interactive dashboard was created using D3 library to analyze a json file with data on microbes found in human navels. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.<p>
 
