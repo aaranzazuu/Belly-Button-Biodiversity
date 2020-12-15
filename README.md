@@ -1,4 +1,3 @@
-# interactive-visualizations-challenge
 # Belly Button Biodiversity
 This project is part of the Data Analytics and Visualization Bootcamp at University of Oregon.
 
