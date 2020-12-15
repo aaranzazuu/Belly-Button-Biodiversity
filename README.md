@@ -1,17 +1,18 @@
 # interactive-visualizations-challenge
+# Belly Button Biodiversity
 This project is part of the Data Analytics and Visualization Bootcamp at University of Oregon.
 
 <b>Project Intro/Objective -</b><p>
 
 The purpose of this project was to create an interactive dashboard to explore the belly button biodiversity dataset, which catalogs the microbes that colonize human navels.<p>
 
-<b>Methods Used -</b>
+<b>Methods Used - </b>
 <ul>
-<il>Data Visualization</il>
-<il>Plotly</il>
-<il>Json</il>
-<il>HTML</il>
-<il>D3</il>
+<li>Data Visualization</li>
+<li>Plotly</li>
+<li>Json</li>
+<li>HTML</li>
+<li>D3</li>
 </ul>
 
 <b>Project Description -<b><p>
@@ -20,8 +21,8 @@ The interactive dashboard was created using D3 library to analyze a json file wi
 
 <b>Needs of this project -</b><p>
 <ul>
-<il>Frontend developers</il>
-<il>Data exploration/Descriptive statistics</il>
-<il>Data processing/cleaning</il>
-<il>Statistical modeling</il>
+<li>Frontend developers</li>
+<li>Data exploration/Descriptive statistics</li>
+<li>Data processing/cleaning</li>
+<li>Statistical modeling</li>
 </ul>
